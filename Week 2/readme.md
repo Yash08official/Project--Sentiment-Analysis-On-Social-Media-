@@ -214,7 +214,7 @@ a word in a document relative to a collection of documents.</h2>
 
 <h2>"Bernoulli Naive Bayes"<h2> :
 
-To understand Bernoulli Naive Bayes algorithm,
+<p>To understand Bernoulli Naive Bayes algorithm,
 it is essential to understand Naive Bayes.
 Naive Bayes is a supervised machine learning
 algorithm to predict the probability of different
@@ -281,3 +281,4 @@ P(Disease = True | X) = 0.17 / P(X)
 P(Disease = False | X) = 0.05 / P(X)
 = 0.05 / 0.21
 = 0.23 - (2)
+</p>
