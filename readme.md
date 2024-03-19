@@ -1,4 +1,4 @@
-### <h1> Project : Sentiment Analysis On Social Media (Machine Learning Project) </h1>
+### <h1> Project : Sentiment Analysis On Social Media (ML Project) </h1>
 
 In this project , I used "Python" language and all the codeing I completed on "Google Colab"
 
