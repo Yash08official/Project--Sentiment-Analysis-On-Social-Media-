@@ -10,43 +10,43 @@ Examples
 A computer program which learns from experience is called a machine learning program or simply a learning program.
 Classification of Machine Learning
 
-<h3>1.Supervised Learning
+<h3><table>1.Supervised Learning
 2.Unsupervised Learning
 3.Reinforcement Learning
-4.Semi-Supervised Learning</h3>
+4.Semi-Supervised Learning</table></h3>
 
-<h2>"Supervised learning"</h2>:
+<h2>"Supervised learning"</h2>
 Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.The given data is labeled.
 Both classification and regression problems are supervised learning problems.
 
 IMAGE
 
-<h2>"Unsupervised learning"</h2>:
+<h2>"Unsupervised learning"</h2>
 Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses.
 In unsupervised learning algorithms,classification or categorization is not included in the observations.
 
 IMAGE
 
-<h2>"Reinforcement learning"</h2>:
+<h2>"Reinforcement learning"</h2>
 Reinforcement learning is the problem of getting an agent to act in the world so as to maximize its rewards.
 A learner is not told what actions to take as in most forms of machine learning but instead must discover which actions yield the most reward by trying them.
 
 IMAGE
 
-<h2>"Semi-supervised learning"</h2>:
+<h2>"Semi-supervised learning"</h2>
 Semi-supervised learning is an approach to machine learning that combines small labeled data with a large amount of unlabeled data during training.
 Semi-supervised learning falls between unsupervised learning and supervised learning
 
 IMAGE
 
-<h2>Machine Learning Model Development Steps</h2> :
-<h3>1.Collecting Data
+<h2>Machine Learning Model Development Steps</h2> 
+<h3><table>1.Collecting Data
 2.Preparing the Data
 3.Choosing a Model
 4.Training the Model
 5.Evaluating the Model
 6.Parameter Tuning
-7.Making Predictions</h3>
+7.Making Predictions</table></h3>
 
 IMAGE
 IMAGE
@@ -73,7 +73,7 @@ IMAGE
 • Array Manipulation
 • Integration with Other Libraries
 
-<h2>"Seaborn" is a Python data visualization library.</h2>
+<h2>"Seaborn" is a Python data visualization library</h2>
 • Statistical Visualization
 • Pairwise Relationship
 • Categorical Data Visualization
@@ -212,9 +212,9 @@ a word in a document relative to a collection of documents.</h2>
 
 
 
-<h2>"Bernoulli Naive Bayes"<h2> :
+<h2>"Bernoulli Naive Bayes"<h2> 
 
-<p>To understand Bernoulli Naive Bayes algorithm,
+To understand Bernoulli Naive Bayes algorithm,
 it is essential to understand Naive Bayes.
 Naive Bayes is a supervised machine learning
 algorithm to predict the probability of different
@@ -281,4 +281,4 @@ P(Disease = True | X) = 0.17 / P(X)
 P(Disease = False | X) = 0.05 / P(X)
 = 0.05 / 0.21
 = 0.23 - (2)
-</p>
+
