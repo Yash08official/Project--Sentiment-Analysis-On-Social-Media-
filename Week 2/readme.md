@@ -1,6 +1,6 @@
 ### <h1>Week 2 (Fundamentals, ML Specific Concepts)</h1>
 
-<h1>"An Introduction to Machine Learning"</h1>
+<h2>"An Introduction to Machine Learning"</h2>
 
 The field of study known as machine learning is concerned with the question of how to construct computer programs that automatically improvew with experience.
 Examples
@@ -10,12 +10,12 @@ Examples
 A computer program which learns from experience is called a machine learning program or simply a learning program.
 Classification of Machine Learning
 
-<h2>1.Supervised Learning
+<h3>1.Supervised Learning
 2.Unsupervised Learning
 3.Reinforcement Learning
-4.Semi-Supervised Learning</h2>
+4.Semi-Supervised Learning</h3>
 
-<h3>"Supervised learning"</h3>:
+<h2>"Supervised learning"</h2>:
 Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.The given data is labeled.
 Both classification and regression problems are supervised learning problems.
 
