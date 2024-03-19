@@ -1,5 +1,4 @@
-### Week 2 (Fundamentals, ML Specific Concepts)
-
+### <h1>Week 2 (Fundamentals, ML Specific Concepts)</h1>
 
 <h1>"An Introduction to Machine Learning"</h1>
 
@@ -10,6 +9,7 @@ Examples
 
 A computer program which learns from experience is called a machine learning program or simply a learning program.
 Classification of Machine Learning
+
 <h2>1.Supervised Learning
 2.Unsupervised Learning
 3.Reinforcement Learning
@@ -279,4 +279,3 @@ P(Disease = True | X) = 0.17 / P(X)
 P(Disease = False | X) = 0.05 / P(X)
 = 0.05 / 0.21
 = 0.23 - (2)
-
