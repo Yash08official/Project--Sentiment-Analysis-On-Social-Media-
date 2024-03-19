@@ -1,6 +1,6 @@
 ### <h1>Week 2 (Fundamentals, ML Specific Concepts)</h1>
 
-<h2>"An Introduction to Machine Learning"</h2>
+  <h2>"An Introduction to Machine Learning"</h2>
 
 The field of study known as machine learning is concerned with the question of how to construct computer programs that automatically improvew with experience.
 Examples
@@ -21,43 +21,43 @@ Both classification and regression problems are supervised learning problems.
 
 IMAGE
 
-"Unsupervised learning":
+<h2>"Unsupervised learning"</h2>:
 Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses.
 In unsupervised learning algorithms,classification or categorization is not included in the observations.
 
 IMAGE
 
-"Reinforcement learning":
+<h2>"Reinforcement learning"</h2>:
 Reinforcement learning is the problem of getting an agent to act in the world so as to maximize its rewards.
 A learner is not told what actions to take as in most forms of machine learning but instead must discover which actions yield the most reward by trying them.
 
 IMAGE
 
-"Semi-supervised learning":
+<h2>"Semi-supervised learning"</h2>:
 Semi-supervised learning is an approach to machine learning that combines small labeled data with a large amount of unlabeled data during training.
 Semi-supervised learning falls between unsupervised learning and supervised learning
 
 IMAGE
 
-Machine Learning Model Development Steps :
-1.Collecting Data
+<h2>Machine Learning Model Development Steps</h2> :
+<h3>1.Collecting Data
 2.Preparing the Data
 3.Choosing a Model
 4.Training the Model
 5.Evaluating the Model
 6.Parameter Tuning
-7.Making Predictions
+7.Making Predictions</h3>
 
 IMAGE
 IMAGE
 
-"The `re` module"
+<h2>"The `re` module"</h2>
 •Data Preprocessing
 •Feature Extraction
 •Text Tokenization
 •Text Matching and Filtering
 
-"Pandas" is a popular open-source Python library
+<h2>"Pandas" is a popular open-source Python library</h2>
 • Data Structures
 • Data Loading and Saving
 • Data Exploration and Manipulation
@@ -65,7 +65,7 @@ IMAGE
 • Data Transformation
 • Integration with ML Libraries
 
-"NumPy (Numerical Python)" is a fundamental package for numerical computing in Python.
+<h2>"NumPy (Numerical Python)" is a fundamental package for numerical computing in Python.</h2>
 • Multidimensional Arrays
 • Mathematical Operations
 • Linear Algebra
@@ -73,7 +73,7 @@ IMAGE
 • Array Manipulation
 • Integration with Other Libraries
 
-"Seaborn" is a Python data visualization library.
+<h2>"Seaborn" is a Python data visualization library.</h2>
 • Statistical Visualization
 • Pairwise Relationship
 • Categorical Data Visualization
@@ -81,7 +81,7 @@ IMAGE
 • Distribution Visualization
 • Customization and Styling
 
-"Matplotlib" is a comprehensive library for creating static, animated, and interactive
+<h2>"Matplotlib" is a comprehensive library for creating static, animated, and interactive</h2>
 visualizations in Python.
 • Basic Plots
 • Customization and Styling
@@ -92,9 +92,9 @@ visualizations in Python.
 • Integration with Libraries
 • Exporting and Saving Plots
 
-"WordCloud" is a Python library used for generating word clouds, which are visual
+<h2>"WordCloud" is a Python library used for generating word clouds, which are visual
 representations of text data where the size of each word corresponds to its frequency or
-importance within the text.
+importance within the text.</h2>
 • Word Frequency Calculation
 • Customization Options
 • Visualization of Textual Data
@@ -102,8 +102,8 @@ importance within the text.
 • Topics Identification and Analysis
 • Result Interpretation and Communication
 
-The "train-test split" is a fundamental technique used in machine learning (ML) projects for
-evaluating the performance of predictive models.
+<h2>The "train-test split" is a fundamental technique used in machine learning (ML) projects for
+evaluating the performance of predictive models.</h2>
 • Dataset Partitioning
 • Evaluation of Model Performance
 • Preventing Overfitting
@@ -111,8 +111,8 @@ evaluating the performance of predictive models.
 • Cross Validation
 • Stratified Splitting
 
-A "confusion matrix" is a performance measurement tool used in machine learning (ML)
-projects, particularly in classification tasks.
+<h2>A "confusion matrix" is a performance measurement tool used in machine learning (ML)
+projects, particularly in classification tasks.</h2>
 • Basic Structure
 • Evaluation Metrics
 • Visualization
@@ -120,9 +120,9 @@ projects, particularly in classification tasks.
 • Model Comparison
 • Threshold Optimization
 
-A "classification report" is a summary of the performance of a classification model, typically
+<h2>A "classification report" is a summary of the performance of a classification model, typically
 generated using the predictions made by the model and the actual labels from the test
-dataset.
+dataset.</h2>
 • Metrics Included
 • Interpretation
 • Visualization
@@ -130,8 +130,8 @@ dataset.
 • Error Analysis
 • Threshold Optimization
 
-"Stemming" is a text processing technique used in natural language processing (NLP) to
-reduce words to their root or base form.
+<h2>"Stemming" is a text processing technique used in natural language processing (NLP) to
+reduce words to their root or base form.</h2>
 • Normalization of Text
 • Feature Extraction
 • Information Retrieval
@@ -139,25 +139,25 @@ reduce words to their root or base form.
 • Implementation
 • Limitations
 
-"Lemmatization" is a technique used in natural language processing (NLP) and machine
-learning (ML) projects to reduce words to their base or root form.
+<h2>"Lemmatization" is a technique used in natural language processing (NLP) and machine
+learning (ML) projects to reduce words to their base or root form.</h2>
 • POS Tagging
 • Normalization
 • Word Sense Disambiguation
 • Implementation
 
-A "regexp tokenizer", short for regular expression tokenizer, is a tokenizer used in natural
+<h2>A "regexp tokenizer", short for regular expression tokenizer, is a tokenizer used in natural
 language processing (NLP) tasks to split text into individual tokens based on specific
-patterns defined by regular expressions.
+patterns defined by regular expressions.</h2>
 • Tokenization
 • Regular Expressions
 • Customization
 • Handling Special Cases
 • Language Specific Tokenization
 
-The "Receiver Operating Characteristic (ROC)" curve and Area Under the Curve (AUC) are
+<h2>The "Receiver Operating Characteristic (ROC)" curve and Area Under the Curve (AUC) are
 evaluation metrics used in machine learning (ML) projects, particularly for binary
-classification tasks.
+classification tasks.</h2>
 • ROC Curve
 • Interpretation
 • AUC
@@ -165,16 +165,16 @@ classification tasks.
 • Threshold Selection
 • Implementation
 
-"Natural Language Processing (NLP)" is a field of artificial intelligence (AI) and
+<h2>"Natural Language Processing (NLP)" is a field of artificial intelligence (AI) and
 computational linguistics focused on enabling computers to understand, interpret, and
-generate human language in a meaningful way.
+generate human language in a meaningful way.</h2>
 • NLP Tasks
 • NLTK Library
 • Functionalities of NLTK
 • Integration with ML
 
-"Logistic regression" is a statistical method used for binary classification tasks in machine
-learning (ML) projects.
+<h2>"Logistic regression" is a statistical method used for binary classification tasks in machine
+learning (ML) projects.</h2>
 • Model Representation
 • Decision Boundary
 • Training
@@ -182,9 +182,9 @@ learning (ML) projects.
 • Evaluation
 • Implementation Example
 
-"Bernoulli Naive Bayes" is a variant of the Naive Bayes algorithm, specifically designed for
+<h2>"Bernoulli Naive Bayes" is a variant of the Naive Bayes algorithm, specifically designed for
 binary classification tasks where the features are binary-valued (e.g., presence or absence
-of a feature).
+of a feature).</h2>
 • Model Representation
 • Parameter Estimation
 • Prediction
@@ -192,8 +192,8 @@ of a feature).
 • Evaluation
 • Implementation Example
 
-"Support Vector Machine (SVM)" is a powerful supervised learning algorithm used for
-classification, regression, and outlier detection tasks in machine learning (ML) projects.
+<h2>"Support Vector Machine (SVM)" is a powerful supervised learning algorithm used for
+classification, regression, and outlier detection tasks in machine learning (ML) projects.</h2>
 • Objective
 • Linear Seperability
 • Kernel Trick
@@ -202,15 +202,17 @@ classification, regression, and outlier detection tasks in machine learning (ML)
 • Dual Optimization Problem
 • Implementation Example
 
-"TF-IDF (Term Frequency-Inverse Document Frequency)" is a numerical statistic used in
+<h2>"TF-IDF (Term Frequency-Inverse Document Frequency)" is a numerical statistic used in
 natural language processing (NLP) and information retrieval to evaluate the importance of
-a word in a document relative to a collection of documents.
+a word in a document relative to a collection of documents.</h2>
 • TF
 • IDF
 • TF – IDF Calculation
 • Functionalities
 
-"Bernoulli Naive Bayes" :
+
+
+<h2>"Bernoulli Naive Bayes"<h2> :
 
 To understand Bernoulli Naive Bayes algorithm,
 it is essential to understand Naive Bayes.
