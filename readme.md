@@ -1,24 +1,24 @@
-### Project : Sentiment Analysis On Social Media (Machine Learning Project)
+### <h1> Project : Sentiment Analysis On Social Media (Machine Learning Project) </h1>
 
 In this project , I used "Python" language and all the codeing I completed on "Google Colab"
 
-### Week 1 (Literature Review Task)
+### <h2> Week 1 (Literature Review Task) </h2>
 
 Brief information related it in file "Week 1"
 
-### Tasks
+### <h3> Tasks </h3>
 
 "CHECK THE WORD FILE I PUT IN THE FILE "Week 1"
 
 
-### Week 2 (Fundamentals, ML Specific Concepts)
+### <h2> Week 2 (Fundamentals, ML Specific Concepts) </h2>
 
 Brief information related it in file "Week 2"
 
 
 Actual coding I started now,
 
-### Tasks
+### <h3> Tasks </h3>
 
 
 
