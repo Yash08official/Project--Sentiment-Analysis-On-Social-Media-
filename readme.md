@@ -57,3 +57,11 @@ Task:
 •	Evaluate the model using accuracy and F1-score. 
 
 "ALL TASKS I COMPLETED IN FILE "Week 2" CHECK IT"
+
+
+### <h2> Week 3 (Coding Module) </h2>
+
+I write all code in it and also documentation is also present of it in "Week 3" file
+
+
+### <h2> Week 4 (Upload all in the git hub profile) </h2>
