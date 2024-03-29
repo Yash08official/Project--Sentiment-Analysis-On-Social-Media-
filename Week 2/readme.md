@@ -10,10 +10,12 @@ Examples
 A computer program which learns from experience is called a machine learning program or simply a learning program.
 Classification of Machine Learning
 
-<h3><table>1.Supervised Learning
+<h3>
+1.Supervised Learning
 2.Unsupervised Learning
 3.Reinforcement Learning
-4.Semi-Supervised Learning</table></h3>
+4.Semi-Supervised Learning
+</h3>
 
 <h2>"Supervised learning"</h2>
 Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.The given data is labeled.
@@ -40,13 +42,15 @@ Semi-supervised learning falls between unsupervised learning and supervised lear
 IMAGE
 
 <h2>Machine Learning Model Development Steps</h2> 
-<h3><table>1.Collecting Data
+<h3>
+1.Collecting Data
 2.Preparing the Data
 3.Choosing a Model
 4.Training the Model
 5.Evaluating the Model
 6.Parameter Tuning
-7.Making Predictions</table></h3>
+7.Making Predictions
+</h3>
 
 IMAGE
 IMAGE
