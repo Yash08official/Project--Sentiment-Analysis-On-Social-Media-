@@ -1,6 +1,6 @@
 ### <h1> Project : Sentiment Analysis On Social Media (ML Project) </h1>
 
-In this project , I used "Python" language and all the codeing I completed on "Google Colab"
+In this project , I used "Python" language and all the codeing I completed on "Jupyter"
 
 ### <h2> Week 1 (Literature Review Task) </h2>
 
